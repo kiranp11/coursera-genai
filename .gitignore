@@ -1,0 +1,11 @@
+/dist
+/mlartifacts
+/mlruns
+/casper.egg-info
+.DS_Store
+mydb.sqlite
+**/__pycache__**
+mydatabase.db
+.env
+.python-version
+.vscode
